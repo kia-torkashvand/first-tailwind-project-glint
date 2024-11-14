@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: font1;
+    src: url(../fonts/Montserrat/static/Montserrat-Medium.ttf);
+}
+.font{
+    font-family: font1;
+    font-weight: normal;
+}
+
+
